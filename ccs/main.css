@@ -584,13 +584,16 @@ span {
    .byrger {
       margin: 199px -54px;
    }
+ 
    }
 /* mobuil */
 @media (max-width:580px) {
    h2 {
       font-size: 70px;
    }
-
+   .main2 {
+      padding: 0px 20px;
+  }
    p {
       width: 100%;
    }
@@ -604,14 +607,14 @@ span {
       width: 100%;
       height: 300px;
       background-position: 0px center;
-      padding: 40px 0px;
+      padding: 40px 20px;
    }
 
    .main2 {
       width: 100%;
       height: 300px;
       background-position: 0px center;
-      padding: 0px 0px;
+      padding: 0px 20px;
    }
 
    .main2-title {
@@ -741,14 +744,14 @@ span {
       width: 100%;
       height: 300px;
       background-position: -63px center;
-      padding: 40px 0px;
+      padding: 40px 10px;
    }
 
    .main2 {
       width: 100%;
       height: 300px;
       background-position: -61px center;
-      padding: 0px 0px;
+      padding: 0px 10px;
    }
    .itel_h4 {
       width: 300px;
